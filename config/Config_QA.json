@@ -1,0 +1,17 @@
+{
+	"Contract Excel Path": "excel\\Contract Info for RPA POC.xlsx",
+	
+	"FilmTrack Username": "206657806",
+	"FilmTrack Password": "yd051106KIM@",
+	"FilmTrack URL": "https://cafe2-10kdev.filmtrackonline.com/avails/login",
+        "RightAirline": "Airline",
+        "RegionAirline": "AIRLINE",
+        "WorkflowStateAirline": "Pending Review",
+	
+
+	"NetSuite Username": "vivi.d.yao@pwc.com",
+	"NetSuite Password": "yd051106KIM@",
+	"NetSuite URL": "https://system.na0.netsuite.com/pages/customerlogin.jsp?country=US&vid=sENwSYCuAklcSKvL&chrole=17&ck=hH5FLICuAkdcSNCH&cktime=175744&promocode=&promocodeaction=overwrite&sj=7v4b40rykdYlsV6XlA1Qr6y3M%3B1589327191%3B379072000",
+
+        "Flag":"0",
+}
